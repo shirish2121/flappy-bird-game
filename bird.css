@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#board {
+    background-image: url(images/bg.jpeg);
+    display: block;
+    margin: 0 auto;
+    width: 100vw; /* Adjust canvas width as percentage of the parent/container */
+    height: 100vh; /* Adjust canvas height as percentage of the parent/container */
+    margin : 0;
+}
